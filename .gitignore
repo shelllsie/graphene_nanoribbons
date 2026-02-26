@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.npz
+*.npy
+data/
+figures/
+.ipynb_checkpoints/
+.env
+.DS_Store
